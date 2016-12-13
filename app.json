@@ -1,8 +1,8 @@
 {
-  "name": "Chatty",
-  "description": "An Action Cable + Rails 5 example app",
+  "name": "LiveChat",
+  "description": "LiveChat for programmers in Cameroon",
   "repository": "https://github.com/SophieDeBenedetto/action-cable-example",
-  "keywords": ["rails 5", "action cable", "websockets"],
+  "keywords": ["live chat cameroon", "chat cameroon", "live cameroon chat"],
   "success_url": "/",
   "scripts": {
     "postdeploy": "bundle exec rake db:migrate"
